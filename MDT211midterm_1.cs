@@ -31,7 +31,7 @@ namespace MDT211midterm_1
             return this.IncorrectScore;
         }
 
-        public string IsLetter(string randomWord, List<string> letterGuessed)           // method ของ hangman ที่ไว้แสดงตัวอักษรที่ถูกกับช่องที่เหลือ
+        public string IsLetter(string randomWord, List<string> letterGuessed)           // method ของ hangman ที่ไว้แสดงตัวอักษรที่ถูกกับช่องที่เหลือ เปิด google มาครับ
         {
             string correctletters = "";
 
